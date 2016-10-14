@@ -15,6 +15,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [ShadowsocksR C#](https://github.com/breakwa11/shadowsocks-rss) - Shadowsocks 不多说
 
+### 软件
+
+* [yarn](https://github.com/yarnpkg/yarn) - 一天内 star 7000，解决 npm 存在问题的新 JS 包管理工具
+
 ### HTTP Parser
 
 * [HTTP Parser](https://github.com/nodejs/http-parser) - nodejs 实现 HTTP 解析的框架
@@ -61,6 +65,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [React](https://github.com/facebook/react) - FaceBook React
 * [react-web](https://github.com/taobaofed/react-web) - A framework for building web apps with React Native compatible API
 * [React-Learning](https://github.com/zhangmengxue/React-Learning) - React-Learning
+* [react-study](https://github.com/janryWang/react-study) - React源码分析
 
 ## 个人
 
@@ -77,9 +82,16 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 ## 其他
 
-## 书籍
+### 书籍
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的中文书籍索引
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - You Don't Know JS,详细的 JS 教程
 * [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial) - 阮一峰老师的 ES6 入门
 
+### 规范
+
+* [document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的风格约定
+
+### 集合
+
+* [DemoHouse](https://github.com/airen/DemoHouse) - 收集了大量优质 JavaScript、CSS3、Canvas、SVG、Web 动画的 Demo 集合
