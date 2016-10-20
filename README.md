@@ -26,6 +26,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ## JavaScript
 
 * [marked](https://github.com/chjj/marked) - markdown 的 parser and compiler 工具
+* [to-markdown](https://github.com/domchristie/to-markdown) - 另一款 JS 实现的 markdown 转换工具
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - 代码高亮工具
 * [LazyLoad](https://github.com/rgrove/lazyload) - 按需加载外部JavaScript和CSS文件
 * [timeago.js](https://github.com/hustcc/timeago.js) - 一款 JS ‘多少时间之前’
@@ -49,6 +50,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [text-spinners](https://github.com/tawian/text-spinners) - 用 CSS 实现的 loading 
 * [MiniReset.css](https://github.com/jgthms/minireset.css) - minireset.css，一款初始化 css
+* [Hue CSS](https://github.com/evankarageorgos/hue) - 一款梯度变化的背景色 css 样式，49 个漂亮的渐变色彩，用来做网站北京再合适不过。
 
 ### Font
 
