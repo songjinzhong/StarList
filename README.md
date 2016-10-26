@@ -38,7 +38,6 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### JQuery插件
 
 * [jQuery.zTree_Toc.js](https://github.com/i5ting/i5ting_ztree_toc) - JQuery 实现的侧边栏内容预览
-* [实现自己的jQuery库](https://github.com/MeCKodo/forchange) - 一步一步看懂 JQuery源码
 * [widget](https://github.com/mumuy/widget) - A set of widgets based on jQuery&&javascript. 一套基于jquery或javascript的插件库 - 包含：轮播、标签页、滚动条、下拉框、对话框、搜索提示、城市选择(城市三级联动)、日历等组件
 
 ### SVG
@@ -97,3 +96,13 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### 集合
 
 * [DemoHouse](https://github.com/airen/DemoHouse) - 收集了大量优质 JavaScript、CSS3、Canvas、SVG、Web 动画的 Demo 集合
+* [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - 计算机开放电子书汇总 包括面试题等，很全
+
+### 教程
+
+* [demo-richbase](https://github.com/purplebamboo/demo-richbase) - 一个写组件的教程
+* [实现自己的jQuery库](https://github.com/MeCKodo/forchange) - 一步一步看懂 JQuery源码
+
+### chrome 插件
+
+* [Octotree](https://github.com/buunguyen/octotree) - Github 在左侧的生成树形结构，更方便查看代码
