@@ -97,6 +97,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [DemoHouse](https://github.com/airen/DemoHouse) - 收集了大量优质 JavaScript、CSS3、Canvas、SVG、Web 动画的 Demo 集合
 * [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - 计算机开放电子书汇总 包括面试题等，很全
+* [超全前端知识汇总](https://github.com/JacksonTian/fks) - 朴灵总结，很前面的前端知识学习历程
 
 ### 教程
 
