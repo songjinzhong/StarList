@@ -50,6 +50,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [text-spinners](https://github.com/tawian/text-spinners) - 用 CSS 实现的 loading 
 * [MiniReset.css](https://github.com/jgthms/minireset.css) - minireset.css，一款初始化 css
 * [Hue CSS](https://github.com/evankarageorgos/hue) - 一款梯度变化的背景色 css 样式，49 个漂亮的渐变色彩，用来做网站北京再合适不过。
+* [cssicon](https://github.com/wentin/cssicon) - 一款纯 CSS 实现的小图标，超赞
 
 ### Font
 
@@ -67,6 +68,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [react-web](https://github.com/taobaofed/react-web) - A framework for building web apps with React Native compatible API
 * [React-Learning](https://github.com/zhangmengxue/React-Learning) - React-Learning
 * [react-study](https://github.com/janryWang/react-study) - React源码分析
+
+### 其他
+
+* [layer](https://github.com/sentsin/layer) - web弹层组件，很实用
 
 ## 个人
 
