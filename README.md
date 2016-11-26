@@ -108,6 +108,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [demo-richbase](https://github.com/purplebamboo/demo-richbase) - 一个写组件的教程
 * [实现自己的jQuery库](https://github.com/MeCKodo/forchange) - 一步一步看懂 JQuery源码
+* [全栈工程师培训材料](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料，帮助学习者掌握全栈开发的基本知识，承担简单 Web 应用的前后端开发。阮老师又一力作。
 
 ### chrome 插件
 
