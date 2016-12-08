@@ -18,6 +18,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### 软件
 
 * [yarn](https://github.com/yarnpkg/yarn) - 一天内 star 7000，解决 npm 存在问题的新 JS 包管理工具
+* [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology，开源的 gif 录制软件
 
 ### HTTP Parser
 
@@ -58,6 +59,9 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 ## 框架
 
+* [backbone](https://github.com/jashkenas/backbone) - 流行的前端框架库 backbone
+* [underscore](https://github.com/jashkenas/underscore) - underscore
+
 ### Express
 
 * [Express](https://github.com/expressjs/express) - Express
@@ -67,6 +71,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [React](https://github.com/facebook/react) - FaceBook React
 * [react-web](https://github.com/taobaofed/react-web) - A framework for building web apps with React Native compatible API
 * [React-Learning](https://github.com/zhangmengxue/React-Learning) - React-Learning
+* [learning-react](https://github.com/yiminghe/learning-react) - React 教程
 * [react-study](https://github.com/janryWang/react-study) - React源码分析
 
 ### 其他
