@@ -19,6 +19,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [yarn](https://github.com/yarnpkg/yarn) - 一天内 star 7000，解决 npm 存在问题的新 JS 包管理工具
 * [kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology，开源的 gif 录制软件
+* [loppo](https://github.com/ruanyf/loppo) - 一款将 markdown 文件快速生成可阅读的 html
 
 ### HTTP Parser
 
@@ -66,6 +67,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [Express](https://github.com/expressjs/express) - Express
 
+### webpack
+
+* [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - This repo is a collection of simple demos of Webpack.
+
 ### React
 
 * [React](https://github.com/facebook/react) - FaceBook React
@@ -73,6 +78,8 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [React-Learning](https://github.com/zhangmengxue/React-Learning) - React-Learning
 * [learning-react](https://github.com/yiminghe/learning-react) - React 教程
 * [react-study](https://github.com/janryWang/react-study) - React源码分析
+* [react-demos](https://github.com/ruanyf/react-demos) - 阮一峰老师 react-demos 教程
+* [react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 详细介绍 react 中路由 router
 
 ### 其他
 
@@ -118,3 +125,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### chrome 插件
 
 * [Octotree](https://github.com/buunguyen/octotree) - Github 在左侧的生成树形结构，更方便查看代码
+
+### mac 软件合集
+
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。
