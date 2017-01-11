@@ -3,9 +3,12 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 ## 工具
 
+* [prettier](https://github.com/jlongster/prettier) - Prettier is an opinionated JavaScript formatter，一款强大的自动化代码格式工具。
+
 ### 爬虫
 
 * [Awesome-crawler](https://github.com/BruceDone/awesome-crawler) - 爬虫集合，各个版本
+* [scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python
 
 ### 分词
 
@@ -24,6 +27,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### HTTP Parser
 
 * [HTTP Parser](https://github.com/nodejs/http-parser) - nodejs 实现 HTTP 解析的框架
+
+### Docker
+
+* [lamp](https://github.com/tutumcloud/lamp) - a docker image for php + mysql + apache
 
 ## JavaScript
 
@@ -81,6 +88,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [react-demos](https://github.com/ruanyf/react-demos) - 阮一峰老师 react-demos 教程
 * [react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 详细介绍 react 中路由 router
 
+### JQuery
+
+* [前端JQuery系列](https://github.com/JsAaron/jQuery) - 剖析 JQuery 源码
+
 ### 其他
 
 * [layer](https://github.com/sentsin/layer) - web弹层组件，很实用
@@ -103,7 +114,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### 书籍
 
 * [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN) - 免费的中文书籍索引
+* [free-programming-books](https://github.com/vhf/free-programming-books) - Freely available programming books
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - You Don't Know JS,详细的 JS 教程
+* [list of awesome lists](https://github.com/sindresorhus/awesome) - 在Github，有很多人在想，这里有啥好项目，所以就有了 AWESOME项目，这是个高能的项目！有很多你想要的资源。
+
 * [ECMAScript 6入门](https://github.com/ruanyf/es6tutorial) - 阮一峰老师的 ES6 入门
 
 ### 规范
@@ -115,12 +129,14 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [DemoHouse](https://github.com/airen/DemoHouse) - 收集了大量优质 JavaScript、CSS3、Canvas、SVG、Web 动画的 Demo 集合
 * [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - 计算机开放电子书汇总 包括面试题等，很全
 * [超全前端知识汇总](https://github.com/JacksonTian/fks) - 朴灵总结，很前面的前端知识学习历程
+* [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - 猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you
 
 ### 教程
 
 * [demo-richbase](https://github.com/purplebamboo/demo-richbase) - 一个写组件的教程
 * [实现自己的jQuery库](https://github.com/MeCKodo/forchange) - 一步一步看懂 JQuery源码
 * [全栈工程师培训材料](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料，帮助学习者掌握全栈开发的基本知识，承担简单 Web 应用的前后端开发。阮老师又一力作。
+* [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
 
 ### chrome 插件
 
@@ -129,3 +145,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### mac 软件合集
 
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac) - 这个仓库主要是收集非常好用的Mac应用程序、软件以及工具，主要面向开发者和设计师。
+
+### Unity3D
+
+* [RemoteVR_UnityServer](https://github.com/PierfrancescoSoffritti/RemoteVR_UnityServer) - Unity server for multiplayer virtual reality in the cloud
