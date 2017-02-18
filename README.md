@@ -4,6 +4,9 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ## 工具
 
 * [prettier](https://github.com/jlongster/prettier) - Prettier is an opinionated JavaScript formatter，一款强大的自动化代码格式工具。
+* [you-get](https://github.com/soimort/you-get#supported-sites) - 一款强大的视频、图片下载软件
+* [mac2imgur](https://github.com/mileswd/mac2imgur) - 快速上传图片到 imgur，强大
+* [make-github-greater](https://github.com/Justineo/make-github-greater) - github 的 header 是黑色的，不好看，换个颜色
 
 ### 爬虫
 
@@ -74,6 +77,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [Express](https://github.com/expressjs/express) - Express
 
+### egg
+
+* [egg](https://github.com/eggjs/egg) - 很火的 node 框架，关注度很高。
+
 ### webpack
 
 * [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - This repo is a collection of simple demos of Webpack.
@@ -87,6 +94,12 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [react-study](https://github.com/janryWang/react-study) - React源码分析
 * [react-demos](https://github.com/ruanyf/react-demos) - 阮一峰老师 react-demos 教程
 * [react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 详细介绍 react 中路由 router
+* [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI specification and React-based implementation.
+
+### vue
+
+* [webpack-vue-spa-demo](https://github.com/cwsjoker/webpack-vue-spa-demo) - webpack+vue.js的单页面应用搭建demo
+* [netease-clound-webapps](https://github.com/javaSwing/NeteaseCloudWebApp) - vue 高仿网易音乐
 
 ### JQuery
 
@@ -106,8 +119,8 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ## 博客主题
 
 * [Hexo](https://github.com/hexojs/hexo) - Hexo 博客
+* [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - hexo 博客主题 next，精于心，简于形
 * [Ghost](https://github.com/TryGhost/Ghost) - ghost 博客
-
 
 ## 其他
 
@@ -130,6 +143,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [it-ebooks-archive](https://github.com/it-ebooks/it-ebooks-archive) - 计算机开放电子书汇总 包括面试题等，很全
 * [超全前端知识汇总](https://github.com/JacksonTian/fks) - 朴灵总结，很前面的前端知识学习历程
 * [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - 猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you
+* [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总，github 集合，很全。
 
 ### 教程
 
@@ -137,6 +151,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [实现自己的jQuery库](https://github.com/MeCKodo/forchange) - 一步一步看懂 JQuery源码
 * [全栈工程师培训材料](https://github.com/ruanyf/jstraining) - 全栈工程师培训材料，帮助学习者掌握全栈开发的基本知识，承担简单 Web 应用的前后端开发。阮老师又一力作。
 * [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp) - The https://FreeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.
+* [open-source-guide](https://github.com/github/open-source-guide) - Community guides for open source creators.
 
 ### chrome 插件
 
