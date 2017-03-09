@@ -7,6 +7,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [you-get](https://github.com/soimort/you-get#supported-sites) - 一款强大的视频、图片下载软件
 * [mac2imgur](https://github.com/mileswd/mac2imgur) - 快速上传图片到 imgur，强大
 * [make-github-greater](https://github.com/Justineo/make-github-greater) - github 的 header 是黑色的，不好看，换个颜色
+* [APlayer](https://github.com/DIYgod/APlayer) - Wow, such a beautiful HTML5 music player 
 
 ### 爬虫
 
@@ -31,9 +32,11 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [HTTP Parser](https://github.com/nodejs/http-parser) - nodejs 实现 HTTP 解析的框架
 
-### Docker
+### Docker & git
 
 * [lamp](https://github.com/tutumcloud/lamp) - a docker image for php + mysql + apache
+* [docker-gotgit](https://github.com/jiangxin/docker-gotgit) - Dockerfile for gotgit/gotgit
+* [gotgit](https://github.com/gotgit/gotgit/) - git 权威指南，入门 + 进阶
 
 ## JavaScript
 
@@ -63,6 +66,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [MiniReset.css](https://github.com/jgthms/minireset.css) - minireset.css，一款初始化 css
 * [Hue CSS](https://github.com/evankarageorgos/hue) - 一款梯度变化的背景色 css 样式，49 个漂亮的渐变色彩，用来做网站北京再合适不过。
 * [cssicon](https://github.com/wentin/cssicon) - 一款纯 CSS 实现的小图标，超赞
+* [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 
 ### Font
 
@@ -105,6 +109,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [前端JQuery系列](https://github.com/JsAaron/jQuery) - 剖析 JQuery 源码
 
+### 可视化
+
+* [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+
 ### 其他
 
 * [layer](https://github.com/sentsin/layer) - web弹层组件，很实用
@@ -121,6 +129,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [Hexo](https://github.com/hexojs/hexo) - Hexo 博客
 * [hexo-theme-next](https://github.com/iissnan/hexo-theme-next) - hexo 博客主题 next，精于心，简于形
 * [Ghost](https://github.com/TryGhost/Ghost) - ghost 博客
+
+## 博客
+
+* [node-interview](https://github.com/ElemeFE/node-interview) - 饿了么 nodejs 面试的一些经验总结
 
 ## 其他
 
@@ -144,6 +156,11 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [超全前端知识汇总](https://github.com/JacksonTian/fks) - 朴灵总结，很前面的前端知识学习历程
 * [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - 猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you
 * [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总，github 集合，很全。
+* [最全的前端资源汇总仓库](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
+
+### 性能
+
+* [性能专栏](https://github.com/barretlee/performance-column) - 性能专栏（Performance Column），旨在提升 PC/H5/Native 等多个端上对性能的认知。 内容沉淀先以 Issue 形式汇集，后续整理成文/刊。
 
 ### 教程
 
