@@ -8,6 +8,8 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [mac2imgur](https://github.com/mileswd/mac2imgur) - 快速上传图片到 imgur，强大
 * [make-github-greater](https://github.com/Justineo/make-github-greater) - github 的 header 是黑色的，不好看，换个颜色
 * [APlayer](https://github.com/DIYgod/APlayer) - Wow, such a beautiful HTML5 music player 
+* [nodePPT](https://github.com/ksky521/nodePPT) - This is probably the best web presentation tool so far! http://qdemo.sinaapp.com/ 网页也能播放 ppt
+* [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF 视频转 gif 图片的强大工具
 
 ### 爬虫
 
@@ -45,6 +47,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [Highlight.js](https://github.com/isagalaev/highlight.js) - 代码高亮工具
 * [LazyLoad](https://github.com/rgrove/lazyload) - 按需加载外部JavaScript和CSS文件
 * [timeago.js](https://github.com/hustcc/timeago.js) - 一款 JS ‘多少时间之前’
+* [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript，超级强大的 js 实现的 pdf 阅读器
 
 ### 炫酷
 
@@ -112,10 +115,19 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### 可视化
 
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
+* [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. https://d3js.org
+* [chartkick.js](https://github.com/ankane/chartkick.js) - Create beautiful charts with one line of JavaScript.
 
 ### 其他
 
 * [layer](https://github.com/sentsin/layer) - web弹层组件，很实用
+
+## 后台
+
+### nodejs vs fibjs
+
+* [nodeclub](https://github.com/cnodejs/nodeclub) - Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统 http://cnodejs.org/
+* [fibjs](https://github.com/xicilion/fibjs) - JavaScript on Fiber (based on Chrome V8 engine) http://fibjs.org
 
 ## 个人
 
