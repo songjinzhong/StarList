@@ -48,6 +48,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [LazyLoad](https://github.com/rgrove/lazyload) - 按需加载外部JavaScript和CSS文件
 * [timeago.js](https://github.com/hustcc/timeago.js) - 一款 JS ‘多少时间之前’
 * [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript，超级强大的 js 实现的 pdf 阅读器
+* [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. 预编译，更有效的执行 javascript 代码
 
 ### 炫酷
 
@@ -63,6 +64,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - A JavaScript SVG library for the modern web，用 JS 来写 SVG。
 * [Bytesize Icons](https://github.com/danklammer/bytesize-icons) - A tiny style-controlled SVG iconset
 
+### canvas
+
+* [H5lock](https://github.com/lvming6816077/H5lock) - H5手势解锁
+
 ## CSS
 
 * [text-spinners](https://github.com/tawian/text-spinners) - 用 CSS 实现的 loading 
@@ -70,6 +75,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [Hue CSS](https://github.com/evankarageorgos/hue) - 一款梯度变化的背景色 css 样式，49 个漂亮的渐变色彩，用来做网站北京再合适不过。
 * [cssicon](https://github.com/wentin/cssicon) - 一款纯 CSS 实现的小图标，超赞
 * [Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
+* [Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. 一款 css hover 库，很给力。
 
 ### Font
 
@@ -80,9 +86,12 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [backbone](https://github.com/jashkenas/backbone) - 流行的前端框架库 backbone
 * [underscore](https://github.com/jashkenas/underscore) - underscore
 
-### Express
+### Express & koa
 
 * [Express](https://github.com/expressjs/express) - Express
+* [koa](https://github.com/koajs/koa) - koa
+* [koa-guide](https://github.com/guo-yu/koa-guide) - koa 中文 guide，嘿嘿
+* [koa-generator-examples](https://github.com/17koa/koa-generator-examples) - 一起学koa
 
 ### egg
 
@@ -107,6 +116,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [webpack-vue-spa-demo](https://github.com/cwsjoker/webpack-vue-spa-demo) - webpack+vue.js的单页面应用搭建demo
 * [netease-clound-webapps](https://github.com/javaSwing/NeteaseCloudWebApp) - vue 高仿网易音乐
+* [kov-blog](https://github.com/Ma63d/kov-blog) - 一款使用 koa ,vue 和 mongo 搭建的博客页面和支持markdown语法的博客编写平台,自动保存草稿。
 
 ### JQuery
 
@@ -121,6 +131,8 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### 其他
 
 * [layer](https://github.com/sentsin/layer) - web弹层组件，很实用
+* [quill](https://github.com/quilljs/quill) - Your powerful, rich text editor 一款在线富文本编辑工具。
+* [slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. 又一款好用的在线富文本编辑器
 
 ## 后台
 
@@ -135,6 +147,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [My Resume](https://github.com/DIYgod/Resume) - 一款网页版简历
 * [Resume](https://github.com/joyeecheung/resume) - joyeecheung/resume
+* [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations，可以自动生成 github 简历，很有意思
 
 ## 博客主题
 
