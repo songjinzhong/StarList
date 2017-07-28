@@ -10,6 +10,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [APlayer](https://github.com/DIYgod/APlayer) - Wow, such a beautiful HTML5 music player 
 * [nodePPT](https://github.com/ksky521/nodePPT) - This is probably the best web presentation tool so far! http://qdemo.sinaapp.com/ 网页也能播放 ppt
 * [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF 视频转 gif 图片的强大工具
+* [guetzli](https://github.com/google/guetzli/) - google 推出的新一代 png／jpeg 图片压缩算法
 
 ### 爬虫
 
@@ -49,6 +50,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [timeago.js](https://github.com/hustcc/timeago.js) - 一款 JS ‘多少时间之前’
 * [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript，超级强大的 js 实现的 pdf 阅读器
 * [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. 预编译，更有效的执行 javascript 代码
+* [baobab](https://github.com/Yomguithereal/baobab) - JavaScript persistent and optionally immutable data tree with cursors.
 
 ### 炫酷
 
@@ -85,6 +87,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [backbone](https://github.com/jashkenas/backbone) - 流行的前端框架库 backbone
 * [underscore](https://github.com/jashkenas/underscore) - underscore
+* [lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras. https://lodash.com/
 
 ### Express & koa
 
@@ -111,12 +114,17 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [react-demos](https://github.com/ruanyf/react-demos) - 阮一峰老师 react-demos 教程
 * [react-router-tutorial](https://github.com/reactjs/react-router-tutorial) - 详细介绍 react 中路由 router
 * [ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - A configurable Mobile UI specification and React-based implementation.
+* [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS
+* [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.（强大的虚拟列表，大数据渲染必备）
+* [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
+* [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.（react 实现便捷的控制 className）
 
 ### vue
 
 * [webpack-vue-spa-demo](https://github.com/cwsjoker/webpack-vue-spa-demo) - webpack+vue.js的单页面应用搭建demo
 * [netease-clound-webapps](https://github.com/javaSwing/NeteaseCloudWebApp) - vue 高仿网易音乐
 * [kov-blog](https://github.com/Ma63d/kov-blog) - 一款使用 koa ,vue 和 mongo 搭建的博客页面和支持markdown语法的博客编写平台,自动保存草稿。
+* [awesome-vue](https://github.com/vuejs/awesome-vue) - 看名字：A curated list of awesome things related to Vue.js
 
 ### JQuery
 
@@ -127,6 +135,8 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag
 * [d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. https://d3js.org
 * [chartkick.js](https://github.com/ankane/chartkick.js) - Create beautiful charts with one line of JavaScript.
+* [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.（强大）
+* [react-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js.基于 d3 的可视化库
 
 ### 其他
 
@@ -140,13 +150,13 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 
 * [nodeclub](https://github.com/cnodejs/nodeclub) - Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统 http://cnodejs.org/
 * [fibjs](https://github.com/xicilion/fibjs) - JavaScript on Fiber (based on Chrome V8 engine) http://fibjs.org
+* [nvs](https://github.com/jasongin/nvs) - Node Version Switcher - A cross-platform tool for switching between versions and forks of Node.js nodejs 便捷的库管理
 
 ## 个人
 
 ### 简历制作
 
 * [My Resume](https://github.com/DIYgod/Resume) - 一款网页版简历
-* [Resume](https://github.com/joyeecheung/resume) - joyeecheung/resume
 * [resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations，可以自动生成 github 简历，很有意思
 
 ## 博客主题
