@@ -41,6 +41,10 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [docker-gotgit](https://github.com/jiangxin/docker-gotgit) - Dockerfile for gotgit/gotgit
 * [gotgit](https://github.com/gotgit/gotgit/) - git 权威指南，入门 + 进阶
 
+### npm 软件合集
+
+* [nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao(npm 源头快速切换工具)
+
 ## JavaScript
 
 * [marked](https://github.com/chjj/marked) - markdown 的 parser and compiler 工具
@@ -95,6 +99,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [koa](https://github.com/koajs/koa) - koa
 * [koa-guide](https://github.com/guo-yu/koa-guide) - koa 中文 guide，嘿嘿
 * [koa-generator-examples](https://github.com/17koa/koa-generator-examples) - 一起学koa
+* [http-server](https://github.com/indexzero/http-server) - a simple zero-configuration command-line http server.
 
 ### egg
 
@@ -117,6 +122,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [react-select](https://github.com/JedWatson/react-select) - A Select control built with and for React JS
 * [react-virtualized](https://github.com/bvaughn/react-virtualized) - React components for efficiently rendering large lists and tabular data.（强大的虚拟列表，大数据渲染必备）
 * [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
+* [react-virtualized-select](https://github.com/bvaughn/react-virtualized-select/) - HOC that uses react-virtualized and react-select to display large lists of options in a drop-down，优化大数据的 react-select
 * [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.（react 实现便捷的控制 className）
 
 ### vue
@@ -192,6 +198,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [Front-end-tutorial](https://github.com/windiest/Front-end-tutorial) - 猫的前端回忆录 Cat's front memory, these share data are from my usual work and learning, hoping to help you
 * [awesome-github-wechat-weapp](https://github.com/opendigg/awesome-github-wechat-weapp) - 微信小程序开源项目库汇总，github 集合，很全。
 * [最全的前端资源汇总仓库](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) - GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）
+* [awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources(python 软件合集)
 
 ### 性能
 
@@ -216,3 +223,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ### Unity3D
 
 * [RemoteVR_UnityServer](https://github.com/PierfrancescoSoffritti/RemoteVR_UnityServer) - Unity server for multiplayer virtual reality in the cloud
+
+### 开源硬件
+
+* [arduino-max30100](https://github.com/oxullo/Arduino-MAX30100) - max30100 一款用来测试血氧和心率的模块，在 Arduino 中的源码，直接使用
