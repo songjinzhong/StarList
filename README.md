@@ -11,6 +11,8 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [nodePPT](https://github.com/ksky521/nodePPT) - This is probably the best web presentation tool so far! http://qdemo.sinaapp.com/ 网页也能播放 ppt
 * [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF 视频转 gif 图片的强大工具
 * [guetzli](https://github.com/google/guetzli/) - google 推出的新一代 png／jpeg 图片压缩算法
+* [nvmw](https://github.com/hakobera/nvmw) - Simple Node Version Manager for Windows，适用于 windows 的 node 版本管理工具
+* [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions，强大的 node 版本管理工具
 
 ### 爬虫
 
@@ -55,6 +57,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript，超级强大的 js 实现的 pdf 阅读器
 * [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. 预编译，更有效的执行 javascript 代码
 * [baobab](https://github.com/Yomguithereal/baobab) - JavaScript persistent and optionally immutable data tree with cursors.
+* [FlexSlider](https://github.com/woocommerce/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
 
 ### 炫酷
 
@@ -132,6 +135,12 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [kov-blog](https://github.com/Ma63d/kov-blog) - 一款使用 koa ,vue 和 mongo 搭建的博客页面和支持markdown语法的博客编写平台,自动保存草稿。
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - 看名字：A curated list of awesome things related to Vue.js
 
+### Angular AngularJS
+
+* [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
+* [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
+* [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based onAngular 4+, Bootstrap 4 (previously known as ng2-admin). 一款基于 Angular2 的后台管理软件
+
 ### JQuery
 
 * [前端JQuery系列](https://github.com/JsAaron/jQuery) - 剖析 JQuery 源码
@@ -174,6 +183,12 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ## 博客
 
 * [node-interview](https://github.com/ElemeFE/node-interview) - 饿了么 nodejs 面试的一些经验总结
+
+## 后端
+
+### JAVA
+
+* [symphony](https://github.com/b3log/symphony) -  A modern community (forum/BBS/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台。
 
 ## 其他
 
