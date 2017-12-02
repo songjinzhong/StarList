@@ -11,8 +11,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [nodePPT](https://github.com/ksky521/nodePPT) - This is probably the best web presentation tool so far! http://qdemo.sinaapp.com/ 网页也能播放 ppt
 * [gifify](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF 视频转 gif 图片的强大工具
 * [guetzli](https://github.com/google/guetzli/) - google 推出的新一代 png／jpeg 图片压缩算法
-* [nvmw](https://github.com/hakobera/nvmw) - Simple Node Version Manager for Windows，适用于 windows 的 node 版本管理工具
-* [nvm](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions，强大的 node 版本管理工具
+* [cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. 统计代码行数
 
 ### 爬虫
 
@@ -57,7 +56,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript，超级强大的 js 实现的 pdf 阅读器
 * [prepack](https://github.com/facebook/prepack) - Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently. 预编译，更有效的执行 javascript 代码
 * [baobab](https://github.com/Yomguithereal/baobab) - JavaScript persistent and optionally immutable data tree with cursors.
-* [FlexSlider](https://github.com/woocommerce/FlexSlider) - An awesome, fully responsive jQuery slider plugin.
+* [axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js.
 
 ### 炫酷
 
@@ -127,19 +126,15 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [react-list](https://github.com/orgsync/react-list) - A versatile infinite scroll React component.
 * [react-virtualized-select](https://github.com/bvaughn/react-virtualized-select/) - HOC that uses react-virtualized and react-select to display large lists of options in a drop-down，优化大数据的 react-select
 * [classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together.（react 实现便捷的控制 className）
+* [ant-design-pro](https://github.com/ant-design/ant-design-pro) - An out-of-box UI solution for enterprise applications. ant-design 后台系统
 
 ### vue
 
+* [vue](https://github.com/vuejs/vue) - A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 * [webpack-vue-spa-demo](https://github.com/cwsjoker/webpack-vue-spa-demo) - webpack+vue.js的单页面应用搭建demo
 * [netease-clound-webapps](https://github.com/javaSwing/NeteaseCloudWebApp) - vue 高仿网易音乐
 * [kov-blog](https://github.com/Ma63d/kov-blog) - 一款使用 koa ,vue 和 mongo 搭建的博客页面和支持markdown语法的博客编写平台,自动保存草稿。
 * [awesome-vue](https://github.com/vuejs/awesome-vue) - 看名字：A curated list of awesome things related to Vue.js
-
-### Angular AngularJS
-
-* [angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
-* [angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
-* [ngx-admin](https://github.com/akveo/ngx-admin) - Admin dashboard template based onAngular 4+, Bootstrap 4 (previously known as ng2-admin). 一款基于 Angular2 的后台管理软件
 
 ### JQuery
 
@@ -152,6 +147,7 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 * [chartkick.js](https://github.com/ankane/chartkick.js) - Create beautiful charts with one line of JavaScript.
 * [recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3.（强大）
 * [react-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js.基于 d3 的可视化库
+* [BizCharts](https://github.com/alibaba/BizCharts) - data visualization library based G2 and React.
 
 ### 其他
 
@@ -183,12 +179,6 @@ a record for my star list，记录一些非常棒的 GitHub 项目
 ## 博客
 
 * [node-interview](https://github.com/ElemeFE/node-interview) - 饿了么 nodejs 面试的一些经验总结
-
-## 后端
-
-### JAVA
-
-* [symphony](https://github.com/b3log/symphony) -  A modern community (forum/BBS/SNS/blog) platform written in Java. 一个用 Java 实现的现代化社区（论坛/社交网络/博客）平台。
 
 ## 其他
 
