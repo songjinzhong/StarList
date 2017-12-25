@@ -1,0 +1,62 @@
+# work
+alias openl="open ~/Documents/文档/华师大/毕业设计/毕业设计"
+alias gtbylw="cd /Users/songjinzhong/Documents/文档/华师大/毕业设计/毕业设计/song"
+
+# connect controller and computer
+alias sshss="ssh root@192.3.168.140"
+
+# npm yarn 
+alias ys="yarn start"
+alias yb="yarn build"
+alias ns='npm start'
+alias nb='npm run build'
+alias fs='fie start'
+alias ni='npm i'
+
+# git config 
+alias gs='git status'
+alias gm='git merge'
+alias gc='git commit -m'
+alias gl='git log'
+alias ga='git add .'
+alias gp='git push'
+alias gd='git diff'
+alias gb='git branch'
+alias gr='git reset'
+alias gf='git fetch'
+alias gr='git remote'
+alias gch='git checkout'
+alias gt='git tag'
+alias gcn='git config user.name'
+alias gce='git config user.email'
+
+# ls ll
+alias ll='ls -lF'
+alias lla='ls -alF'
+alias lsa='ls -aF'
+alias ls='ls -aF'
+alias grep='grep --color=auto'
+export CLICOLOR=1
+export LSCOLORS=bxfxhxhxgxhxhxgxgxbxbx
+
+# vscode open file
+alias vsc='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code';
+VSC_BIN='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin';
+PATH=$VSC_BIN:$PATH;
+export PATH;
+
+# show disk use
+alias sd='du -h -d 1 .'
+
+# shadowsock control
+alias ss-on='export ALL_PROXY=socks5://127.0.0.1:1080'
+alias ss-off='unset ALL_PROXY'
+
+# ping test
+alias pingl='ping 96.44.186.136'
+alias pingl2='ping 104.160.167.73'
+alias pings='ping 192.3.168.140'
+alias ncl='nc -z 96.44.186.136 8656'
+
+# bash 的最大历史记录
+HISTFILESIZE=1000000
